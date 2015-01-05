@@ -1,0 +1,2 @@
+CD "C:\Program Files (x86)\Steam\steamapps\common\chivalry_ded_server\Binaries\Win32"
+UDKLogging.exe AOCFFA-Arena3_P?steamsockets -seekfreeloadingserver -maxplayers=32 -Port=50500 -QueryPort=50501 -sdkfileid=200205982
